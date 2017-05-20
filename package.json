@@ -29,7 +29,7 @@
   "dependencies": {
     "commander": "^2.5.0",
     "handlebars": "^2.0.0",
-    "raml2obj": "git://github.com/chrinor2002/raml2obj.git#develop",
+    "raml2obj": "git://github.com/chrinor2002/raml2obj.git#feature\/parser-options",
     "raml-jsonschema-expander": "1.1.x"
   }
 }
